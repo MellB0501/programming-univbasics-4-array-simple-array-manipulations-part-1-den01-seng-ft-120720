@@ -7,8 +7,8 @@ def using_unshift(array, string)
 end
 
 def using_pop(today)
-  today = ["a", "b", "c", "d", "e"]
-  today.pop("e")
+  today = ["mon", "tues", "wed", "thurs", "fri"]
+  today.pop("fri")
 end
 
 def pop_with_args(today)
