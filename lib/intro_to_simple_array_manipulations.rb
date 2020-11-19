@@ -6,7 +6,7 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-
+def using_pop
   today = ["mon", "tues", "wed", "thurs", "fri"]
   today.pop("fri")
 end
