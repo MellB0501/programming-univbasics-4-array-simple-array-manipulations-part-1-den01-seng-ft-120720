@@ -7,17 +7,14 @@ def using_unshift(array, string)
 end
 
 def using_pop(continent)
-  continent = ["North America", "South America", "Antartica"]
   continent.pop("Antartica")
 end
 
-def pop_with_args(continents_size)
-  continent_size = ["4", "5", "6", "7"]
+def pop_with_args(continent_size)
   continent_size.pop(1)
 end
 
 def using_shift(bunny)
-  bunny = ["a", "b", "c", "d", "e"]
   bunny.shift["a"]
 end
 
