@@ -7,7 +7,7 @@ def using_unshift(array, string)
 end
 
 def using_pop(continent)
-  continent.pop("Antartica")
+  continent.pop
 end
 
 def pop_with_args(continent_size)
