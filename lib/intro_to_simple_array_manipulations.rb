@@ -18,7 +18,7 @@ end
 
 def using_shift(happy)
   happy = ["a", "b", "c", "d", "e"]
-  happy.shift(a)
+  happy.shift("a")
 end
 
 def shift_with_args(bunny)
