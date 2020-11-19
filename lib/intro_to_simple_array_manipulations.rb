@@ -17,7 +17,7 @@ def pop_with_args(array)
 end
 
 def using_shift(happy)
-  happy = ["a", "b", "c", "d", "e"]
+  happyy = ["a", "b", "c", "d", "e"]
   happy.shift("a")
 end
 
