@@ -8,7 +8,7 @@ end
 
 def using_pop(continent)
   continent = ["North America", "South America", "Antartica"]
-  today.pop["Antartica"]
+  continent.pop
 end
 
 def pop_with_args(continents_size)
