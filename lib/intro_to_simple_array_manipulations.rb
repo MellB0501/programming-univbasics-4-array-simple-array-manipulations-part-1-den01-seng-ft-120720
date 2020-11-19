@@ -11,7 +11,7 @@ def using_pop(continent)
 end
 
 def pop_with_args(continent_size)
-  continent_size.pop(1)
+  continent_size.pop(2)
 end
 
 def using_shift(my_favorite_cities)
