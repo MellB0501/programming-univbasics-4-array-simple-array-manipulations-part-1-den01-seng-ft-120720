@@ -14,8 +14,8 @@ def pop_with_args(continent_size)
   continent_size.pop(1)
 end
 
-def using_shift(bunny)
-  bunny.shift["a"]
+def using_shift(my_favorite_cities)
+  my_favorite_cities.shift
 end
 
 def shift_with_args(bouroughs_in_nyc)
