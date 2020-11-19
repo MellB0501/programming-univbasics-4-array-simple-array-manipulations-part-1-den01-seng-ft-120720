@@ -18,10 +18,10 @@ end
 
 def using_shift(happy)
   happy = ["a", "b", "c", "d", "e"]
-  array.shift("a")
+  happy.shift("a")
 end
 
 def shift_with_args(bunny)
-  bunnyy = ["a", "b", "c", "d", "e"]
+  bunny = ["a", "b", "c", "d", "e"]
   bunny.shift(2)
 end
