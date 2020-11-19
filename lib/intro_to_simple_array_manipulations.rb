@@ -11,14 +11,14 @@ def using_pop(array)
   array.pop("e")
 end
 
-def pop_with_args(array)
-  array = ["a", "b", "c", "d", "e"]
-  array.pop(2)
+def pop_with_args(today)
+  today = ["a", "b", "c", "d", "e"]
+  today.pop(2)
 end
 
-def using_shift(happy)
-  happyy = ["a", "b", "c", "d", "e"]
-  happy.shift("a")
+def using_shift(bunny)
+  bunnyyy = ["a", "b", "c", "d", "e"]
+  bunny.shift("a")
 end
 
 def shift_with_args(bunny)
