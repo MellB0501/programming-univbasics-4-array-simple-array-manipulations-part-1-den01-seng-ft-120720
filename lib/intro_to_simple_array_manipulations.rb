@@ -18,6 +18,6 @@ def using_shift(bunny)
   bunny.shift["a"]
 end
 
-def shift_with_args(bunny)
-  bunny.shift(2)
+def shift_with_args(buroughs)
+  buroughs.shift(2)
 end
