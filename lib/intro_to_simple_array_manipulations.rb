@@ -11,7 +11,6 @@ def using_pop(today)
   today.pop("fri")
   today.pop(2)
 end
-end
 
 def using_shift(bunny)
   bunny = ["a", "b", "c", "d", "e"]
