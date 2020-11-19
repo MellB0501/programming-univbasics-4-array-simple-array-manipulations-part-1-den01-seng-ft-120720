@@ -6,9 +6,9 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_pop(todayy)
+def using_pop(today)
   today = ["mon", "tues", "wed", "thurs", "fri"]
-  today.pop("fri")
+  today.pop["fri"]
 end
 
 def pop_with_args(hey)
