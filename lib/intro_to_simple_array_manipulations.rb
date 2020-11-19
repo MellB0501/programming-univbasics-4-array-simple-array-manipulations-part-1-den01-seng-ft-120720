@@ -9,11 +9,8 @@ end
 def using_pop(today)
   today = ["mon", "tues", "wed", "thurs", "fri"]
   today.pop("fri")
+  today.pop(2)
 end
-
-def pop_with_args(a)
-  a = ["a", "b", "c", "d", "e"]
-  a.pop(2)
 end
 
 def using_shift(bunny)
