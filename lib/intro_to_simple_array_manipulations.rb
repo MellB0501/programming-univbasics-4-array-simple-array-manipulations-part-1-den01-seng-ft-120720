@@ -13,7 +13,7 @@ end
 
 def pop_with_args(hey)
   hey = ["arnold", "football", "ham", "blonde"]
-  hey.pop(1)
+  hey.pop(2)
 end
 
 def using_shift(bunny)
