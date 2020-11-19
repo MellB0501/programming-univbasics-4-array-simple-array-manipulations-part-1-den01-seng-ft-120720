@@ -6,8 +6,8 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_pop(today)
-  today = ["mon", "tues", "wed", "thurs", "fri"]
+def using_pop(continent)
+  continent = ["North America", "South America", "Antartica"]
   today.pop["fri"]
 end
 
