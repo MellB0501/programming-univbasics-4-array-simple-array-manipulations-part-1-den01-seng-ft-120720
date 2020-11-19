@@ -17,7 +17,7 @@ def pop_with_args(today)
 end
 
 def using_shift(bunny)
-  bunnyyy = ["a", "b", "c", "d", "e"]
+  bunnyy = ["a", "b", "c", "d", "e"]
   bunny.shift("a")
 end
 
