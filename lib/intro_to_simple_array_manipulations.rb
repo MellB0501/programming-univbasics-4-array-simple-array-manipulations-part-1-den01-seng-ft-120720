@@ -6,9 +6,9 @@ def using_unshift(array, string)
   array.unshift(string)
 end
 
-def using_pop(array)
-  array = ["a", "b", "c", "d", "e"]
-  array.pop("e")
+def using_pop(today)
+  today = ["a", "b", "c", "d", "e"]
+  today.pop("e")
 end
 
 def pop_with_args(today)
@@ -17,7 +17,7 @@ def pop_with_args(today)
 end
 
 def using_shift(bunny)
-  bunnyy = ["a", "b", "c", "d", "e"]
+  bunny = ["a", "b", "c", "d", "e"]
   bunny.shift("a")
 end
 
