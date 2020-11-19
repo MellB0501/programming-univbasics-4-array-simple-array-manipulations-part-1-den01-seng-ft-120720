@@ -13,7 +13,7 @@ end
 
 def pop_with_args(continents_size)
   continent_size = ["4", "5", "6", "7"]
-  hey.pop(1)
+  continent_size.pop(1)
 end
 
 def using_shift(bunny)
