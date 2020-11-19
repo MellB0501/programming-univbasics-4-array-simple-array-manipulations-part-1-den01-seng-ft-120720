@@ -22,6 +22,6 @@ def using_shift(happy)
 end
 
 def shift_with_args(bunny)
-  bunny = ["a", "b", "c", "d", "e"]
+  bunnyy = ["a", "b", "c", "d", "e"]
   bunny.shift(2)
 end
