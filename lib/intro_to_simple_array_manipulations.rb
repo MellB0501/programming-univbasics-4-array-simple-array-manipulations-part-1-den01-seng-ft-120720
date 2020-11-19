@@ -8,12 +8,12 @@ end
 
 def using_pop(continent)
   continent = ["North America", "South America", "Antartica"]
-  today.pop["fri"]
+  today.pop["Antartica"]
 end
 
-def pop_with_args(hey)
-  hey = ["arnold", "football", "ham", "blonde"]
-  hey.pop(2)
+def pop_with_args(continents_size)
+  continent_size = ["4", "5", "6", "7"]
+  hey.pop(1)
 end
 
 def using_shift(bunny)
